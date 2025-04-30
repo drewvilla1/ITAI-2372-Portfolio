@@ -19,39 +19,10 @@ The repository is organized into intuitive directories for seamless navigation:
 
 
 
-# Directory
-Description
 
 
 
-/Assignments
-Case studies and reports exploring AI applications across various industries.
-
-
-/Labs
-Reflective journals from hands-on Azure AI lab exercises.
-
-
-/Projects
-Conceptual design projects, including a NASA Mars rover AI system.
-
-
-/Class_Notes
-Detailed lecture notes on AI and related technologies.
-
-
-/Portfolio
-A presentation slide deck summarizing key projects and assignments.
-
-
-README.md
-This file, providing an overview and guide to the repository.
-
-
-Detailed File Structure
-
-
-# /Assignments:
+# /Assignments: Case studies and reports exploring AI applications across various industries.
 
 A04_Andrew_Kuruvilla_ITAI_2372.docx: AI in fraud detection case study.
 
@@ -72,7 +43,7 @@ A12_Case_Study.docx: AGI in healthcare case study.
 
 
 
-# /Labs:
+# /Labs: Reflective journals from hands-on Azure AI lab exercises.
 
 reflective_journal_lab_1.docx: Azure AI Content Safety Studio lab.
 
@@ -86,27 +57,35 @@ Reflective_Journal_AI_900_Lab_05.docx: Generative AI with GPT-4 lab.
 
 
 
-# /Projects:
+# /Projects: Conceptual design projects, including a NASA Mars rover AI system.
 
 NASA_Space_Mission_AI_Project_Plan_Conceptual_Design_Track.docx: AI-based Mars rover navigation system.
 
 
 
-# /Class_Notes:
+# /Class_Notes: Detailed lecture notes on AI and related technologies.
 
 A02_NOTES.docx: AI platform notes.
+
 A04_notes.docx: AI in finance challenges.
+
 Lecture_Notes_AI_in_Finance_Industry.docx: AI in fraud detection notes.
+
 class_notes.docx: AI in healthcare and agriculture.
+
 A05_Module_05_Smart_Cities_Class_Notes.docx: Smart cities applications.
+
 A06-2_Feb_20_Smart_Cities_Classnotes.docx: Additional smart cities notes.
+
 Class_Notes.docx: AI in audience engagement and game development.
+
 Class_Notes_Blockchain.docx: Blockchain and AI integration.
+
 A08_Retail_Industry_ClassNotes.docx: AI in retail.
 
 
 
-# /Portfolio:
+# /Portfolio: A presentation slide deck summarizing key projects and assignments.
 
 AI_Portfolio_Presentation.pdf: Slide deck for employer showcase.
 
