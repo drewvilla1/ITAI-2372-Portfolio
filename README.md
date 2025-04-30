@@ -87,7 +87,7 @@ A08_Retail_Industry_ClassNotes.docx: AI in retail.
 
 # /Portfolio: A presentation slide deck summarizing key projects and assignments.
 
-AI_Portfolio_Presentation.pdf: Slide deck for employer showcase.
+Pf_AndrewKuruvilla_ITAI_2372.pdf: Slide deck for employer showcase.
 
 
 
