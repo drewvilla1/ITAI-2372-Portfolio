@@ -89,6 +89,8 @@ A08_Retail_Industry_ClassNotes.docx: AI in retail.
 
 Pf_AndrewKuruvilla_ITAI_2372.pdf: Slide deck for employer showcase.
 
+AI Applications Portfolio Presentation.docx: planning out for portfolio presentation.
+
 
 
 
